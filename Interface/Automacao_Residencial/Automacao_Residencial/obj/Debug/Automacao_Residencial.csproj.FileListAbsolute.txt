@@ -1,0 +1,22 @@
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.exe
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.pdb
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.csprojResolveAssemblyReference.cache
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmPrincipal.resources
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmSala.resources
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.Properties.Resources.resources
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.csproj.GenerateResource.Cache
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.pdb
+D:\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmGaragem.resources
+D:\Sistemas Embarcados\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe
+D:\Sistemas Embarcados\Arduino\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.exe
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.csprojResolveAssemblyReference.cache
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmGaragem.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmPrincipal.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmSala.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.Properties.Resources.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automação Residencial\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.csproj.GenerateResource.Cache

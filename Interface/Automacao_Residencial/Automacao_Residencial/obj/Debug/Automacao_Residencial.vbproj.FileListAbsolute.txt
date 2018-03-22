@@ -1,0 +1,34 @@
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.exe
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.pdb
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.xml
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmGaragem.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmPrincipal.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.Resources.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.vbproj.GenerateResource.Cache
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.xml
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.pdb
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmSala.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto1.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto2.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto3.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmBanheiro.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmCozinha.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.exe.manifest
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\bin\Debug\Automacao_Residencial.application
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe.manifest
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.application
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.exe
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.xml
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.vbprojResolveAssemblyReference.cache
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmBanheiro.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmCozinha.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmGaragem.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmPrincipal.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto1.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto2.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmQuarto3.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.frmSala.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.Resources.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Residencial\Automacao_Residencial\obj\Debug\Automacao_Residencial.vbproj.GenerateResource.Cache

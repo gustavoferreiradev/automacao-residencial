@@ -1,0 +1,30 @@
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.frmPrincipal.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.Resources.resources
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.vbproj.GenerateResource.Cache
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.exe
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.pdb
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.xml
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.exe
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.xml
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.pdb
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.exe.manifest
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.application
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.exe.manifest
+D:\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.application
+D:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.exe
+D:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.xml
+D:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.frmPrincipal.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.Resources.resources
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.vbproj.GenerateResource.Cache
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.exe
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.xml
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.exe.manifest
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.application
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.exe
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.pdb
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\bin\Debug\Automacao_Form_Unico.xml
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.vbprojResolveAssemblyReference.cache
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.exe.manifest
+E:\Sistemas Embarcados\Arduino\Automação Residencial com VB.NET\Automacao_Form_Unico\Automacao_Form_Unico\obj\Debug\Automacao_Form_Unico.application
